@@ -1,3 +1,6 @@
+//吉岡雅希偲
+//俺のプログラムだああああああああああああああああああ
+
 /* eslint-disable @typescript-eslint/no-var-requires */
 /* eslint-disable no-undef */
 /**
