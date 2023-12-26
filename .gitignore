@@ -1,3 +1,6 @@
 admin.html
 
 development-kit/document/*
+
+development-kit/uno-procon/data/*
+development-kit/uno-procon/logs/*
